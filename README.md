@@ -1,5 +1,5 @@
 # iOS-Projects-Portfolio
-Hi! I'm Azella, an iOS Developer focusing on MVVM, Clean Architecture, and UIKit. Below are my key projects:  
+Hi! I'm Azella, an iOS Developer. Below are my key projects:  
 
 ## 📌 Projects  
 
