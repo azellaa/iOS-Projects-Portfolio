@@ -55,7 +55,6 @@ Hi! I'm Azella, an iOS Developer. Below are my key projects:
 - **Swift / SwiftUI** – Developed the iPad app UI  
 - **UIKit** – Implemented custom animations and game components  
 - **Core Bluetooth** – Connected the brainwave detector via Bluetooth  
-- **CoreML** – Analyzed brainwave patterns using machine learning  
 - **SpriteKit** – Developed the focus training game with animations and physics  
 - **Combine / MVVM Architecture** – Managed state and data flow efficiently  
 
