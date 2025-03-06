@@ -66,11 +66,11 @@ Hi! I'm Azella, an iOS Developer. Below are my key projects:
 - Led the technical development and architecture of the project  
 
 ### 🎨 UI & Component Development  
-- Designed and implemented the **iPad app UI** using **SwiftUI**  
+- Implemented the **iPad app UI** using **SwiftUI**  
 - Developed reusable UI components such as buttons, sliders, and custom views  
 
 ### 🎮 Game Development  
-- Built the **focus training game** using **SpriteKit** and **UIKit**  
+- Built some of the **focus training game** using **SpriteKit** and **UIKit**  
 - Integrated **brainwave data** into gameplay mechanics  
 
 ### 📊 Data Management  
